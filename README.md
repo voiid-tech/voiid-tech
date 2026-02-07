@@ -1,9 +1,5 @@
 # 🌌 Voiid | Software Innovation Lab
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/voiid-tech/.github/main/profile/logo700x700.png" width="200" alt="Voiid Logo">
-</p>
-
 <h3 align="center">Bridging the gap between idea and deployment.</h3>
 
 <p align="center">
