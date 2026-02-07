@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://www.voiid.tech">🌐 Website</a> • 
-  <a href="mailto:admin@voiid.tech">📧 Contact</a> • 
   <a href="https://linkedin.com/company/voiid-tech">💼 LinkedIn</a>
 </p>
 
